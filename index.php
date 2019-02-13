@@ -1,5 +1,5 @@
 <?
 
-echo "Hi! My name is Andrey!";
+echo "Hello my Friends!";
 
 ?>
